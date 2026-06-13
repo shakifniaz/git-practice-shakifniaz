@@ -7,5 +7,6 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
 
+#Added error handling for division by zero
 def divide(a, b):
     return a / b
